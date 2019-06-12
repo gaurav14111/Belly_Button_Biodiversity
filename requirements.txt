@@ -1,0 +1,7 @@
+click
+Flask
+Flask-SQLAlchemy
+gunicorn
+numpy==1.13.3
+pandas==0.20.3
+SQLAlchemy==1.1.13
